@@ -1,8 +1,8 @@
 ﻿Console.WriteLine("Final Work on Block 1, let's START...");
  
 string[] arr1 = {"Hello", "2", "world", ":-)"};
-        string[] arr2 = {"1234", "1567", "-2", "computer science"};
-        string[] arr3 = {"Russia", "Denmark", "Kazan"};
+string[] arr2 = {"1234", "1567", "-2", "computer science"};
+string[] arr3 = {"Russia", "Denmark", "Kazan"};
         
         int MAX_WORD_LENGTH = 3;
         
